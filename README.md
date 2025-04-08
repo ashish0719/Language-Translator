@@ -18,7 +18,7 @@ A simple and interactive web app that translates text between languages using th
 
 ## 💻 Live Demo
 
-> *(Optional)* You can host your project on GitHub Pages or Netlify and add the link here.
+> language-translator-faczwj8ry-ashishs-projects-1448cb93.vercel.app
 
 ---
 
