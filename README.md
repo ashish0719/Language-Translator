@@ -2,7 +2,7 @@
 
 A simple and interactive web app that translates text between languages using the **MyMemory Translation API**. Users can listen to text, copy it, and swap languages easily. This is a great beginner-friendly JavaScript project with real-world use cases.
 
-![Language Translator Demo](Translator_Image.png)
+!(Translator_Image.png)
 
 ---
 
@@ -18,10 +18,10 @@ A simple and interactive web app that translates text between languages using th
 
 ## 💻 Live Demo
 
-> language-translator-faczwj8ry-ashishs-projects-1448cb93.vercel.app
+👉 [Click here to try it out!](https://language-translator-faczwj8ry-ashishs-projects-1448cb93.vercel.app)
 
 ---
 
 ## 🧪 How It Works
 
-- The app uses `fetch()` to call the MyMemory API:
+- The app uses `fetch()` to call the MyMemory Translation API:
